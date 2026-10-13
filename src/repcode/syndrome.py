@@ -1,0 +1,2 @@
+def syndrome(errors):
+    
